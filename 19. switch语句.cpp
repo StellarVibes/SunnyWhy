@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n = 0;
-    cin>>n;
+    cin >> n;
     switch(n)
     {
         case 0:cout<<"Zero";break;
